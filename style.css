@@ -1,0 +1,18 @@
+#heading{
+    color: black;
+    font-size: 25px;
+
+}
+#heading:hover{
+    color: blueviolet;
+}
+body{
+    background: linear-gradient(#e66465 0%, #9198e5 100%)
+}
+
+.link {
+    font-size: 20px;
+    background: orangered;
+    width: 300px;
+   margin-top: 20px;
+}

@@ -1,0 +1,13 @@
+#heading{
+    font-size: 25px;
+}
+#heading:hover{
+    color: blueviolet;
+}
+body{
+    background: linear-gradient(#e66465 0%, #9198e5 100%)
+}
+
+#button {
+    float: right;
+}
